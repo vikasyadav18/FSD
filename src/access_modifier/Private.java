@@ -1,4 +1,4 @@
-package access_modifier;
+/*package access_modifier;
 //The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
 class A{  
 private int data=40;  
@@ -14,5 +14,6 @@ public class Private {
 		   } 
 }
 
+remove this commit symbole to run.
  
- 
+ */
